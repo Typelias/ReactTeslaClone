@@ -1,3 +1,8 @@
+## NOTE
+Used This to get better at react. Followed a [tutorial](https://www.youtube.com/watch?v=lUeS9Wsj6dk&list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP&index=3) and knowlage gained was used in my [sims project](https://github.com/Typelias/SIMS-2021)
+
+### The normal stuff below :)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
